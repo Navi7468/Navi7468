@@ -1,4 +1,4 @@
-### Hi there 👋
+![Alt text](https://wakatime.com/share/@9f3f4fb1-8b70-4f0a-87f4-3d06c16fb11b/e325ce8c-3b4d-4d9b-95e8-10be3129c478.svg)
 
 <!--
 **Navi7468/Navi7468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
