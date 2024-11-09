@@ -1,2 +1,1 @@
 <img src="https://wakatime.com/share/@Navi7468/36bff72a-3e5e-48ba-945a-bc54315b7831.svg">
-<img src="https://wakatime.com/share/@Navi7468/c60d3c53-867e-4a74-946a-f22431342882.svg" width="500" height="300">
